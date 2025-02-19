@@ -1,5 +1,4 @@
-# Palindrome Checker in JavaScript
-
+# Palindrome Checker 
 ## Mô Tả
 
 Chương trình này chứa hai hàm `isPalindrome` và `isPalindrome2`, mỗi hàm dùng để kiểm tra xem một chuỗi có phải là chuỗi đối xứng (palindrome) hay không. Chuỗi đối xứng là chuỗi đọc từ trái sang phải và từ phải sang trái đều giống nhau.
