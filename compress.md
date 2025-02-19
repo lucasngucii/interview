@@ -1,4 +1,4 @@
-# README - Tối ưu và Nén Dữ liệu JSON
+# Tối ưu và Nén Dữ liệu JSON
 
 ## Mô tả
 
