@@ -1,4 +1,4 @@
-# Two Sum Algorithm in Node.js
+# Two Sum Algorithm 
 
 ## Mô Tả
 
