@@ -14,6 +14,7 @@ Quá trình tối ưu bao gồm:
 
 - Node.js đã được cài đặt.
 - Tệp `data.json` chứa dữ liệu đầu vào.
+- Không sử dụng bất cứ thư viện nào.
 
 ## Hướng dẫn sử dụng
 
