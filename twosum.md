@@ -6,7 +6,7 @@ Bài toán "Two Sum" yêu cầu chúng ta tìm tất cả các cặp chỉ số 
 
 ## Thuật Toán
 
-Thuật toán này sử dụng một cấu trúc dữ liệu Map (hoặc đối tượng trong JavaScript) để lưu trữ các phần tử đã duyệt qua, giúp việc tìm kiếm các phần tử bổ sung nhanh chóng và hiệu quả.
+Thuật toán này sử dụng một cấu trúc dữ liệu Map để lưu trữ các phần tử đã duyệt qua, giúp việc tìm kiếm các phần tử bổ sung nhanh chóng và hiệu quả.
 
 ### Bước 1: Khởi tạo các biến
 
